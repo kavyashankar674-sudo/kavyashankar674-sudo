@@ -1,9 +1,30 @@
-## Hi there 👋
+Hi there👋I'm Kavya
 
-<!--
-**kavyashankar674-sudo/kavyashankar674-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
+📊 Aspiring Data Analyst
+💡 Interested in Data Analytics, Business Intelligence and Technology
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently lear
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Analysis & Visualization
+- MySQL
+- HTML & CSS
+
+📌 Projects
+
+- Prediction of Malnutrition in Children using Machine Learning
+- Data Analysis & Excel Dashboard Projects
+- SQL & Power BI Practice Projects
+
+🎯 Career Goal
+
+I am looking for an opportunity to start my career in Data Analytics / MIS / Business Intelligence, where I can use my skills and continue learning.
+
+📫 Connect with me
+
+I'm open to learning opportunities, internships and entry-level roles in Data Analytics.
+
+Thank you for visiting my profile! 😊
