@@ -1,0 +1,74 @@
+{% extends "memberlayout.html" %}
+{% block title %}Malnourished Solution{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <br>
+
+    <div class="alert alert-warning text-center shadow" style="border-radius:15px;">
+        <h2 class="text-danger">
+            Child is Malnourished
+        </h2>
+
+        <p class="lead">
+            Immediate nutritional care and monitoring are recommended.
+        </p>
+    </div>
+
+    <br>
+
+    <div class="card shadow p-4">
+
+        <h3 class="text-primary">Recommended Solutions</h3>
+        <hr>
+
+        <ul class="list-group">
+
+            <li class="list-group-item">
+                Provide balanced nutritious food regularly.
+            </li>
+
+            <li class="list-group-item">
+                Increase intake of proteins such as eggs, milk, pulses, and beans.
+            </li>
+
+            <li class="list-group-item">
+                Include fruits and green leafy vegetables in daily meals.
+            </li>
+
+            <li class="list-group-item">
+                Ensure proper hydration and clean drinking water.
+            </li>
+
+            <li class="list-group-item">
+                Monitor child weight and height every month.
+            </li>
+
+            <li class="list-group-item">
+                Avoid junk foods and sugary drinks.
+            </li>
+
+            <li class="list-group-item">
+                Encourage proper sleep and physical activity.
+            </li>
+
+            <li class="list-group-item">
+                Consult a pediatrician or nutrition specialist if condition continues.
+            </li>
+
+        </ul>
+
+        <br>
+
+        <div class="text-center">
+            <a href="/malnutrition" class="btn btn-primary btn-lg">
+                Back to Prediction
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}
