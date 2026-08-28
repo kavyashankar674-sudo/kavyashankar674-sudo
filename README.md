@@ -1,30 +1,43 @@
-Hi there👋I'm Kavya
+# Prediction of Malnutrition in Children Using Machine Learning
 
-🎓 BCA Graduate
-📊 Aspiring Data Analyst
-💡 Interested in Data Analytics, Business Intelligence and Technology
+## 📌 Project Overview
 
-🛠️ Skills
+This project is a Machine Learning-based system designed to predict the risk of malnutrition in children using health and nutritional data.
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Data Analysis & Visualization
+The system analyzes important health indicators and provides a prediction that can support early identification of malnutrition.
+
+## 🎯 Objective
+
+The main objective of this project is to use Machine Learning techniques to help identify malnutrition in children at an early stage.
+
+## 🛠️ Technologies Used
+
+- Machine Learning
 - MySQL
-- HTML & CSS
+- Visual Studio Code
+- Kaggle Dataset
 
-📌 Projects
+## 🤖 Machine Learning Algorithms
 
-- Prediction of Malnutrition in Children using Machine Learning
-- Data Analysis & Excel Dashboard Projects
-- SQL & Power BI Practice Projects
+- Bayesian Classifier
+- K-Nearest Neighbors (KNN)
 
-🎯 Career Goal
+## 📊 Key Features
 
-I am looking for an opportunity to start my career in Data Analytics / MIS / Business Intelligence, where I can use my skills and continue learning.
+- Uses children's health and nutritional data
+- Data preprocessing and handling of missing values
+- Predicts the possibility of malnutrition
+- Provides an easy-to-understand result
+- Helps in early identification of nutritional problems
 
-📫 Connect with me
+## 📂 Dataset
 
-I'm open to learning opportunities, internships and entry-level roles in Data Analytics.
+The dataset was obtained from Kaggle and contains health and nutritional information used for training and testing the Machine Learning models.
 
-Thank you for visiting my profile! 😊
+## 🔍 Project Outcome
+
+The system predicts whether a child is at risk of malnutrition based on the provided health-related information.
+
+## 👩‍💻 Developed By
+
+*Kavya S*
